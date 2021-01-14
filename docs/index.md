@@ -23,5 +23,5 @@ WifiとBluetoothを使用して、他のユーザと接続します。
 アプリを削除することでデバイス内に一時的に保存したデータも削除されます。  
 以上
 
-Copyright 2020 [TDC SOFT Inc.](https://www.tdc.co.jp/)
+Copyright 2021 [TDC SOFT Inc.](https://www.tdc.co.jp/)
 
